@@ -24,7 +24,7 @@ function Balance() {
   }
 
   return (
-    <div className="window white">
+    <div className="window">
       <label>Check account token balance:</label>
       <p>
         <input

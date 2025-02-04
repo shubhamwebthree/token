@@ -13,11 +13,11 @@ function Faucet() {
   }
 
   return (
-    <div className="blue window">
+    <div className="window">
       <h3>
         Faucet
       </h3>
-      <label>Get your QUAD tokens here! Claim 10,000 QUAD coins to your account.</label>
+      <label>Claim 10,000 QUAD Token to your account</label>
       <p className="trade-buttons">
         <button 
         id="btn-payout" 
