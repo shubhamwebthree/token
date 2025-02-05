@@ -25,7 +25,7 @@ function Balance() {
 
   return (
     <div className="window">
-      <label>Check account token balance:</label>
+      <h3>Check account token balance</h3>
       <p>
         <input
           id="balance-principal-id"
