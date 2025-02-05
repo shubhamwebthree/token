@@ -29,4 +29,4 @@ echo $CANISTER_PUBLIC_KEY
 ## Transfer half a billion tokens to the canister Principal ID
 ```
 dfx canister call token_backend transfer "($CANISTER_PUBLIC_KEY, 500_000_000)"
-```# token
+```
